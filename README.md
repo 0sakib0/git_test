@@ -1,4 +1,2 @@
 # git_test
-My fist Github repo!
-Hello Odin!
-Revised!
+This is test repo testing commit message how it functions
